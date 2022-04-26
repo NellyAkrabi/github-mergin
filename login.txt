@@ -1,4 +1,3 @@
-Passwort min. 4 Zeichen
-
-Login muss 7 Zeichnen haben
+Passwort min. 4 Zeiche
 bla bla bla
+
